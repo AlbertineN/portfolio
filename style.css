@@ -1,0 +1,68 @@
+body {
+    background-image: url(images/background.png);
+}
+p {
+    color: rgb(14, 14, 14);
+}
+.imgcont {
+    border-radius: 35px;
+    padding: 20px;
+    width: 900px;
+    height: 900px;
+    background-image: url("images/maintainance.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    float: right;
+    margin-right: 20px;
+    
+}
+
+.toptextcont {
+    padding-top: 350px;
+    width: 900px;
+    height: 875px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: xx-large;
+    font-weight: 300;
+    color: aliceblue;
+    position: absolute;
+    text-align: center;
+    
+}
+
+.topnav{
+    width: auto;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0);
+    overflow: hidden;
+    margin-right: 300px;
+    margin-left: 50px;
+    
+}
+
+.topnav a{
+    float: right; 
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+}
+
+.topnav a:hover{
+    background-color: white;
+    color: black;
+}
+
+.topnav img{
+    margin-top: 20px;
+}
+
+
+
+
+
