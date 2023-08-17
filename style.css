@@ -525,8 +525,9 @@ p {
 .active {
     border-radius: 30px;
     border: 5px;
-    border-color: #FFF;
-    background-color: #000;
+    border-color: #000;
+    background-color: #ffffffd3;
+    color: black !important;
 
 }
 
@@ -573,4 +574,3 @@ p {
 .basedec p{
     text-align: center;
 }
-
