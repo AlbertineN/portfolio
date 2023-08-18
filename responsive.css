@@ -1,0 +1,657 @@
+@media only screen and (max-width:800px) {
+    /* For tablets: */
+    .navbar {
+      width: 70%;
+      padding: 0;
+      margin-left: 120px;
+    }
+    
+    .navbar h2 {
+      font-size: 30px;
+      float: left;
+      margin-top: 0px;
+    }
+
+    .navbar a {
+      font-size: 13px;
+      padding: 10px 12px;
+      float: right;
+    }
+
+    .home {
+      width: 70%;
+      padding: 0;
+      height: max-content;
+      margin-left: 120px;
+      overflow: hidden;
+      
+    }
+
+    .hom1 {
+      width: 100%;
+    }
+
+    .hom1 h1 {
+      font-size: 60px;
+    }
+
+    .hom1 h2 {
+      font-size: 30px;
+    }
+
+    .hom1 p {
+      font-size: 16px;
+    }
+
+    .hom1 button {
+      float: left;
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .pb button {
+      float: right;
+    }
+
+    .hom2 {
+      width: 100%;
+      
+    }
+
+    .hom2 img{
+      padding-left: 500px;
+      margin-right: 50px;
+    }
+
+    .stack {
+      width: 70%;
+      padding: 0;
+      margin-left: 120px;
+      
+    }
+
+    .stack h2{
+      font-size: 25px;
+    }
+
+    .bar {
+      width: 100%;
+      margin: 0px;
+    }
+
+    .ansible {
+      width: 12.5%;
+      float: left;
+      
+    } 
+
+    .golang {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .ubuntu {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .kubernetes {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .docker {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .gcp {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .jenkins {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .pipeline {
+      width: 12.5%;
+      float: right;
+    } 
+
+    .bar img {
+      margin-left: 15px;
+      margin-top: 20px;
+      width: 40px;
+      height: 40px;
+    }
+
+    .service {
+      width: 70%;
+      height: max-content;
+      overflow: hidden;
+    }
+
+    .service h2 {
+      font-size: 25px;
+    }
+
+    .devops {
+      width: 100%;
+      height: 50%;
+
+    } 
+
+    .dev1 {
+      width: 100%;
+    }
+    
+    .dev2{
+      width: 100%;
+    }
+
+    .dev2 h3 {
+      font-size: 30px;
+    }
+
+    .dev2 h4 {
+      font-size: 35px;
+    }
+
+    .dev2 p {
+      font-size: 16px;
+    }
+
+    .dev2 button {
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .webdev {
+      width: 100%;
+      height: 50%;
+    }
+
+    .web1 {
+      width: 100%;
+    }
+
+    .web2 {
+      width: 100%;
+    }
+
+    .web1 h3 {
+      font-size: 30px;
+    }
+
+    .web1 h4 {
+      font-size: 35px;
+    }
+
+    .web1 p {
+      font-size: 16px;
+    }
+
+    .web1 button {
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .web2 img {
+      /* float: right; */
+      margin-right: 50px;
+    }
+
+    .testimony {
+      width: 80%;
+      height: fit-content;
+      overflow: hidden;
+      margin-right: 0px;
+      
+    }
+
+    .txt {
+      /* align-items: center; */
+    }
+
+    .txt h3 {
+      font-size: 25px;
+      margin-left: 100px;
+    }
+
+    .txt h4 {
+      font-size: 30px;
+      margin-left: 100px;
+    }
+
+    .cards {
+      width: 100%;
+      margin-left: 200px;
+      height: max-content;
+      
+      
+    }
+
+    .card1 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+      
+    }
+
+    .card2 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+    }
+
+    .card3 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+    }
+
+    .c1 {
+      padding-bottom: 30px;
+    }
+
+    .c1 h5 {
+      font-size: 18px;
+    }
+
+    .c1 p {
+      font-size: 16px;
+    }
+
+    .action {
+      width: 80%;
+      margin-left: 70px;
+      margin-top: 0px;
+      padding-top: 8px;
+    }
+
+    .action h3 {
+
+      width: 100%;
+      font-size: 30px;
+      margin-left: 0px;
+    }
+
+    .action button {
+      margin-left: 210px;
+      font-size: 15px;
+      padding: 10px;
+      width: 200px;
+      
+    }
+
+    .footer{
+      width: 100%;
+    }
+
+    .footer h2 {
+      font-size: 20px;
+    }
+    
+    .form input {
+      font-size: 16px;
+      width: 100%;
+      padding: 0px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 10px;
+      
+    }
+
+    .form button {
+      height: 35px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .basedec {
+      width: 80%;
+      margin-left: 75px;
+    }
+
+    
+   
+  }
+  @media only screen and (max-width:500px) {
+    /* For mobile phones: */
+   
+    .navbar {
+      width: 70%;
+      padding: 0;
+      margin-left: 120px;
+    }
+    
+    .navbar h2 {
+      font-size: 30px;
+      float: left;
+      margin-top: 0px;
+    }
+
+    .navbar a {
+      font-size: 13px;
+      padding: 10px 12px;
+      float: right;
+    }
+
+    .home {
+      width: 70%;
+      padding: 0;
+      height: max-content;
+      margin-left: 120px;
+      overflow: hidden;
+      
+    }
+
+    .hom1 {
+      width: 100%;
+    }
+
+    .hom1 h1 {
+      font-size: 60px;
+    }
+
+    .hom1 h2 {
+      font-size: 30px;
+    }
+
+    .hom1 p {
+      font-size: 16px;
+    }
+
+    .hom1 button {
+      float: left;
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .pb button {
+      float: right;
+    }
+
+    .hom2 {
+      width: 100%;
+      
+    }
+
+    .hom2 img{
+      padding-left: 500px;
+      margin-right: 50px;
+    }
+
+    .stack {
+      width: 70%;
+      padding: 0;
+      margin-left: 120px;
+      
+    }
+
+    .stack h2{
+      font-size: 25px;
+    }
+
+    .bar {
+      width: 100%;
+      margin: 0px;
+    }
+
+    .ansible {
+      width: 12.5%;
+      float: left;
+      
+    } 
+
+    .golang {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .ubuntu {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .kubernetes {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .docker {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .gcp {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .jenkins {
+      width: 12.5%;
+      float: left;
+    } 
+
+    .pipeline {
+      width: 12.5%;
+      float: right;
+    } 
+
+    .bar img {
+      margin-left: 15px;
+      margin-top: 20px;
+      width: 40px;
+      height: 40px;
+    }
+
+    .service {
+      width: 70%;
+      height: max-content;
+      overflow: hidden;
+    }
+
+    .service h2 {
+      font-size: 25px;
+    }
+
+    .devops {
+      width: 100%;
+      height: 50%;
+
+    } 
+
+    .dev1 {
+      width: 100%;
+    }
+    
+    .dev2{
+      width: 100%;
+    }
+
+    .dev2 h3 {
+      font-size: 30px;
+    }
+
+    .dev2 h4 {
+      font-size: 35px;
+    }
+
+    .dev2 p {
+      font-size: 16px;
+    }
+
+    .dev2 button {
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .webdev {
+      width: 100%;
+      height: 50%;
+    }
+
+    .web1 {
+      width: 100%;
+    }
+
+    .web2 {
+      width: 100%;
+    }
+
+    .web1 h3 {
+      font-size: 30px;
+    }
+
+    .web1 h4 {
+      font-size: 35px;
+    }
+
+    .web1 p {
+      font-size: 16px;
+    }
+
+    .web1 button {
+      height: 35px;
+      width: 130px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .web2 img {
+      /* float: right; */
+      margin-right: 50px;
+    }
+
+    .testimony {
+      width: 80%;
+      height: fit-content;
+      overflow: hidden;
+      margin-right: 0px;
+      
+    }
+
+    .txt {
+      /* align-items: center; */
+    }
+
+    .txt h3 {
+      font-size: 25px;
+      margin-left: 100px;
+    }
+
+    .txt h4 {
+      font-size: 30px;
+      margin-left: 100px;
+    }
+
+    .cards {
+      width: 100%;
+      margin-left: 200px;
+      height: max-content;
+      
+      
+    }
+
+    .card1 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+      
+    }
+
+    .card2 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+    }
+
+    .card3 {
+      width: 100%;
+      margin-bottom: 100px;
+      
+      
+    }
+
+    .c1 {
+      padding-bottom: 30px;
+    }
+
+    .c1 h5 {
+      font-size: 18px;
+    }
+
+    .c1 p {
+      font-size: 16px;
+    }
+
+    .action {
+      width: 80%;
+      margin-left: 70px;
+      margin-top: 0px;
+      padding-top: 8px;
+    }
+
+    .action h3 {
+
+      width: 100%;
+      font-size: 30px;
+      margin-left: 0px;
+    }
+
+    .action button {
+      margin-left: 210px;
+      font-size: 15px;
+      padding: 10px;
+      width: 200px;
+      
+    }
+
+    .footer{
+      width: 100%;
+    }
+
+    .footer h2 {
+      font-size: 20px;
+    }
+    
+    .form input {
+      font-size: 16px;
+      width: 100%;
+      padding: 0px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 10px;
+      
+    }
+
+    .form button {
+      height: 35px;
+      margin: 0px;
+      font-size: 13px;
+    }
+
+    .basedec {
+      width: 80%;
+      margin-left: 75px;
+    }
+
+  }
