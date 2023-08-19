@@ -130,7 +130,7 @@
     }
 
     .service {
-      width: 70%;
+      width: 80%;
       height: max-content;
       overflow: hidden;
     }
@@ -215,10 +215,6 @@
       overflow: hidden;
       margin-right: 0px;
       
-    }
-
-    .txt {
-      /* align-items: center; */
     }
 
     .txt h3 {
@@ -327,7 +323,7 @@
     
    
   }
-  @media only screen and (max-width:500px) {
+  @media only screen and (max-width:720px) {
     /* For mobile phones: */
    
     .navbar {
@@ -346,13 +342,14 @@
       font-size: 13px;
       padding: 10px 12px;
       float: right;
+      display: none;
     }
 
     .home {
       width: 70%;
       padding: 0;
       height: max-content;
-      margin-left: 120px;
+      margin-left: 90px;
       overflow: hidden;
       
     }
@@ -362,11 +359,11 @@
     }
 
     .hom1 h1 {
-      font-size: 60px;
+      font-size: 50px;
     }
 
     .hom1 h2 {
-      font-size: 30px;
+      font-size: 25px;
     }
 
     .hom1 p {
@@ -376,7 +373,7 @@
     .hom1 button {
       float: left;
       height: 35px;
-      width: 130px;
+      width: 120px;
       margin: 0px;
       font-size: 13px;
     }
@@ -392,13 +389,15 @@
 
     .hom2 img{
       padding-left: 500px;
-      margin-right: 50px;
+      margin-right: 0px;
+      width: 400px;
+      height: 400px;
     }
 
     .stack {
-      width: 70%;
+      width: 80%;
       padding: 0;
-      margin-left: 120px;
+      margin-left: 60px;
       
     }
 
@@ -460,9 +459,12 @@
     }
 
     .service {
-      width: 70%;
+      width: 80%;
       height: max-content;
       overflow: hidden;
+      margin-left: 68px;
+      margin-top: 0px;
+      
     }
 
     .service h2 {
@@ -478,17 +480,23 @@
     .dev1 {
       width: 100%;
     }
+
+    .dev1 img {
+      width: 350px;
+      height: 300px;
+  
+    }
     
     .dev2{
       width: 100%;
     }
 
     .dev2 h3 {
-      font-size: 30px;
+      font-size: 25px;
     }
 
     .dev2 h4 {
-      font-size: 35px;
+      font-size: 30px;
     }
 
     .dev2 p {
@@ -516,11 +524,11 @@
     }
 
     .web1 h3 {
-      font-size: 30px;
+      font-size: 25px;
     }
 
     .web1 h4 {
-      font-size: 35px;
+      font-size: 30px;
     }
 
     .web1 p {
@@ -536,7 +544,9 @@
 
     .web2 img {
       /* float: right; */
-      margin-right: 50px;
+      margin-right: 80px;
+      width: 300px;
+      height: 300px;
     }
 
     .testimony {
@@ -557,15 +567,15 @@
     }
 
     .txt h4 {
-      font-size: 30px;
+      font-size: 25px;
       margin-left: 100px;
     }
 
     .cards {
       width: 100%;
-      margin-left: 200px;
+      margin-left: 180px;
       height: max-content;
-      
+      /* position: absolute; */
       
     }
 
@@ -605,7 +615,7 @@
 
     .action {
       width: 80%;
-      margin-left: 70px;
+      margin-left: 55px;
       margin-top: 0px;
       padding-top: 8px;
     }
@@ -613,12 +623,12 @@
     .action h3 {
 
       width: 100%;
-      font-size: 30px;
+      font-size: 25px;
       margin-left: 0px;
     }
 
     .action button {
-      margin-left: 210px;
+      margin-left: 115px;
       font-size: 15px;
       padding: 10px;
       width: 200px;
